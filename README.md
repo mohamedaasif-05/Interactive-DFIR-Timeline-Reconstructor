@@ -230,6 +230,16 @@ Generate professional investigation reports including:
 # 📷 Screenshots
 
 
+<img width="1900" height="877" alt="Screenshot 2026-08-03 211403" src="https://github.com/user-attachments/assets/c403fd5f-2d8e-46e7-9e87-869f551c6ca1" />
+<img width="1919" height="852" alt="Screenshot 2026-08-03 211417" src="https://github.com/user-attachments/assets/d106e6bb-cf0c-4b73-a071-9fc877598c9c" />
+<img width="1917" height="869" alt="Screenshot 2026-08-03 211427" src="https://github.com/user-attachments/assets/9eec8c22-2d23-442b-911d-3ec47103ba89" />
+<img width="1919" height="869" alt="Screenshot 2026-08-03 211436" src="https://github.com/user-attachments/assets/84259b83-1c26-447d-ae31-8b2e95bdaafa" />
+<img width="1919" height="614" alt="Screenshot 2026-08-03 211447" src="https://github.com/user-attachments/assets/c353a347-92c0-46e7-a822-d670a89801b2" />
+<img width="1918" height="875" alt="Screenshot 2026-08-03 211502" src="https://github.com/user-attachments/assets/6edefa63-015e-4186-99a9-166f9c2817a6" />
+<img width="1917" height="876" alt="Screenshot 2026-08-03 211510" src="https://github.com/user-attachments/assets/a01b4b7a-8f4e-49cb-9829-d3eba34fc687" />
+<img width="1918" height="661" alt="Screenshot 2026-08-03 211522" src="https://github.com/user-attachments/assets/f1da6e35-5f4c-4848-8ad9-4d522212c093" />
+
+---
 
 # 📂 Project Structure
 
