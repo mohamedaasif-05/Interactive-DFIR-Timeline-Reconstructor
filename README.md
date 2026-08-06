@@ -239,6 +239,7 @@ Generate professional investigation reports including:
 <img width="1917" height="876" alt="Screenshot 2026-08-03 211510" src="https://github.com/user-attachments/assets/a01b4b7a-8f4e-49cb-9829-d3eba34fc687" />
 <img width="1918" height="661" alt="Screenshot 2026-08-03 211522" src="https://github.com/user-attachments/assets/f1da6e35-5f4c-4848-8ad9-4d522212c093" />
 
+
 ---
 
 # 📂 Project Structure
